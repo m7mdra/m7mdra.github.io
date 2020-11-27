@@ -87,17 +87,6 @@
   Link: </component---src-templates-categories-list-template-js-eadb914010875380852b.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/perfecting-the-art-of-perfection
-  Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-a4c869fc5235f266498a.js>; rel=preload; as=script
-  Link: </532a2f07-b716085e22ead3eba281.js>; rel=preload; as=script
-  Link: </app-f03bbb04765c5457f067.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-50cba9ba52968490a750.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-8a3023ba41db4a05166b.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/the-origins-of-social-stationery-lettering
   Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -109,6 +98,17 @@
   Link: </component---src-templates-post-template-js-8a3023ba41db4a05166b.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/perfecting-the-art-of-perfection
+  Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-a4c869fc5235f266498a.js>; rel=preload; as=script
+  Link: </532a2f07-b716085e22ead3eba281.js>; rel=preload; as=script
+  Link: </app-f03bbb04765c5457f067.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-50cba9ba52968490a750.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-8a3023ba41db4a05166b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/a-brief-history-of-typography
   Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -142,6 +142,17 @@
   Link: </component---src-templates-post-template-js-8a3023ba41db4a05166b.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
+/pages/background-location-permission-in-android
+  Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-a4c869fc5235f266498a.js>; rel=preload; as=script
+  Link: </532a2f07-b716085e22ead3eba281.js>; rel=preload; as=script
+  Link: </app-f03bbb04765c5457f067.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-50cba9ba52968490a750.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-8a3023ba41db4a05166b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/background-location-permission-in-android/page-data.json>; rel=preload; as=fetch; crossorigin
 /pages/about/
   Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -175,17 +186,6 @@
   Link: </component---src-templates-page-template-js-003a53ccba26e69db447.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pages/contacts_copy/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/background-location-permission-in-android
-  Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-a4c869fc5235f266498a.js>; rel=preload; as=script
-  Link: </532a2f07-b716085e22ead3eba281.js>; rel=preload; as=script
-  Link: </app-f03bbb04765c5457f067.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-50cba9ba52968490a750.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-8a3023ba41db4a05166b.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/background-location-permission-in-android/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/android
   Link: </webpack-runtime-33bfd59a98442d04c296.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
