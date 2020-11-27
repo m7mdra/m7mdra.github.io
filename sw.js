@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-d2b205ae0219f9ef4722.js"
+    "url": "webpack-runtime-8634b0f51ba708d301cc.js"
   },
   {
     "url": "styles.69c8303230227041b58c.css"
@@ -42,11 +42,11 @@ self.__precacheManifest = [
     "url": "532a2f07-b716085e22ead3eba281.js"
   },
   {
-    "url": "app-1b248ba8fa0512e1dc18.js"
+    "url": "app-3a68c12ccd1623f908d5.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "395712f0686126e9ecc37df4861d43d7"
+    "revision": "b5c10c5401186c2cf5928d4c1328edae"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-241020a1cf7d0f317bbe.js"
@@ -57,7 +57,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "fdd7e542302d2996b52d9c73e19bd7a1"
+    "revision": "3cf143da0ada0bc4aa7319e2570f20e4"
   },
   {
     "url": "polyfill-669e45c82798e6234f65.js"
@@ -68,7 +68,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "0812467c35160266759f5c9ccf6498a0"
+    "revision": "a8e15c3dc26433b61c39d65130e7de2d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -155,12 +155,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/siteConfig.pathPrefix`), ``)
+  pathname = pathname.replace(new RegExp(`^/m7mdra-github.io`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/siteConfig.pathPrefix/app-1b248ba8fa0512e1dc18.js`))) {
+  if (!resources || !(await caches.match(`/m7mdra-github.io/app-3a68c12ccd1623f908d5.js`))) {
     return await fetch(event.request)
   }
 
@@ -173,7 +173,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/siteConfig.pathPrefix/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/m7mdra-github.io/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
