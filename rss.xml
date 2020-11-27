@@ -1,4 +1,230 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mohammed elshiekh]]></title><description><![CDATA[Mohammed elshiekh]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Nov 2020 09:21:23 GMT</lastBuildDate><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://lumen.netlify.com/posts/humane-typography-in-the-digital-age</link><guid isPermaLink="false">https://lumen.netlify.com/posts/humane-typography-in-the-digital-age</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mohammed elshiekh]]></title><description><![CDATA[Mohammed elshiekh]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Nov 2020 15:21:31 GMT</lastBuildDate><item><title><![CDATA[Background location permission in Android 11]]></title><description><![CDATA[New changes to background permission request]]></description><link>https://lumen.netlify.com/pages/background-location-permission-in-android</link><guid isPermaLink="false">https://lumen.netlify.com/pages/background-location-permission-in-android</guid><pubDate>Fri, 27 Nov 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Before the new changes to android with version 11, requesting permission for both app states background and foreground was the same, only request a single permission and everything was simple and easy, but not anymore.&lt;/p&gt;
+&lt;div&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 840px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/daf3403821dcfc1b47652725c3c5f226/1e088/location_permission_old.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 88.75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsTAAALEwEAmpwYAAABz0lEQVQ4y41U2XLiMBDk/z+F7+ABqOIoYHchCwk5HC9lCHa8NsE6OjNCsmWvTe1UtWd0tdSasXpa6ysBBKVbDIA+Z8qA4zvGg0XPLoLtqEEZDmAdFgZs3Nc213JoJhSOswvxhU6Zd49bLv4IQ8hsRVHo/X6Pw+GAJEkQBAGOUYSY4o9jhPxvivM5Rpp+kj+TTxHROM8XQjiVsiTMskyPx2MMBgNsNhssl0v0+33sdjs8PPzGr/Xa9M1mM4PJZILVaoXRaIQ4juuEnmRj0+kU8/kci8XCYLvdGs99w+HQeN7UMydZ9qghGp1Gxul0MpLY8xVwHIZhKTPPc7fIP4zsKaUEgbKntPX4X3PzvbXthFJKUOMGTRtYcNvFHlmd0Jfs7z5/KTAjPEYSPwKBn+83rEOBVSCah60ku6R41c4Xgy+qhPyqkBHSL4UkV6bt4kZhV0khecLK9CRbeeiAvs3xrkhbX9WhL9n+SYg+Fd4+JMJY4k8i8UrxMVXleFPyP2XTnHUgwie6w3ciZOLno0SUtlbB/bKpyqcdzXm1LLclxX9tGJdC4SpU2W55baqk8KdLstFABNPnwpSLe866JDvCC6qXs/7G+act3732E1qOyzdLDn3zKFNloAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/daf3403821dcfc1b47652725c3c5f226/8ac56/location_permission_old.webp 240w,
+/static/daf3403821dcfc1b47652725c3c5f226/d3be9/location_permission_old.webp 480w,
+/static/daf3403821dcfc1b47652725c3c5f226/ed60d/location_permission_old.webp 840w&quot; sizes=&quot;(max-width: 840px) 100vw, 840px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/daf3403821dcfc1b47652725c3c5f226/8ff5a/location_permission_old.png 240w,
+/static/daf3403821dcfc1b47652725c3c5f226/e85cb/location_permission_old.png 480w,
+/static/daf3403821dcfc1b47652725c3c5f226/1e088/location_permission_old.png 840w&quot; sizes=&quot;(max-width: 840px) 100vw, 840px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/daf3403821dcfc1b47652725c3c5f226/1e088/location_permission_old.png&quot; alt=&quot;location permission old&quot; title=&quot;location permission old&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;h4 id=&quot;new-changes&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#new-changes&quot; aria-label=&quot;new changes permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;New changes:&lt;/h4&gt;
+&lt;p&gt;Starting from android 11 now inorder for you app to receive background location you have to request a new permission &lt;code class=&quot;language-text&quot;&gt;android.permission.ACCESS_BACKGROUND_LOCATION&lt;/code&gt; right after you request the normal permissions &lt;code class=&quot;language-text&quot;&gt;android.permission.ACCESS_COARSE_LOCATION&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;android.permission.ACCESS_FINE_LOCATION&lt;/code&gt; or both and everything will continue to work as before.&lt;/p&gt;
+&lt;h4 id=&quot;when-you-should-request-this-permission&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#when-you-should-request-this-permission&quot; aria-label=&quot;when you should request this permission permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;When you should request this permission?&lt;/h4&gt;
+&lt;p&gt;Generally when any feature of the app that require access location while in background, here are few use cases i ran into while working: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Foreground permission started from background (i.e if the foreground service was started from broadcast receiver).&lt;/li&gt;
+&lt;li&gt;Scheduled jobs that use location(workmanager jobs, alarm manager..etc).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;example&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#example&quot; aria-label=&quot;example permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Example:&lt;/h4&gt;
+&lt;p&gt;we will have a simple app that has one button, it will request normal permission (&lt;code class=&quot;language-text&quot;&gt;ACCESS_COARSE_LOCATION&lt;/code&gt;,&lt;code class=&quot;language-text&quot;&gt;ACCESS_FINE_LOCATION&lt;/code&gt;)  and &lt;code class=&quot;language-text&quot;&gt;ACCESS_BACKGROUND_LOCATION&lt;/code&gt; Respectively&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;lets start&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;first start by declaring the permissions in &lt;code class=&quot;language-text&quot;&gt;AndroidManifest.xml&lt;/code&gt; file&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;xml&quot;&gt;&lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token prolog&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;manifest&lt;/span&gt; 
+&lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;xmlns:&lt;/span&gt;android&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://schemas.android.com/apk/res/android&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token attr-name&quot;&gt;package&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;com.application.example&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+ &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;uses-permission&lt;/span&gt;
+&lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;android.permission.ACCESS_FINE_LOCATION&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+ &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;uses-permission&lt;/span&gt; 
+&lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;android.permission.ACCESS_COARSE_LOCATION&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; 
+&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;uses-permission&lt;/span&gt;
+&lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;android.permission.ACCESS_BACKGROUND_LOCATION&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; 
+&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+
+    &amp;lt;application
+    ...&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;now its time to request permission normally like the usuall way&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;kotlin&quot;&gt;&lt;pre class=&quot;language-kotlin&quot;&gt;&lt;code class=&quot;language-kotlin&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;override&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;onCreate&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;savedInstanceState&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; Bundle&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;onCreate&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;savedInstanceState&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token function&quot;&gt;setContentView&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;R&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;layout&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;activity_main&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        permissionButton&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;setOnClickListener&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; 
+          
+            &lt;span class=&quot;token function&quot;&gt;requestLocationPermission&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;and here where the magic happens&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;kotlin&quot;&gt;&lt;pre class=&quot;language-kotlin&quot;&gt;&lt;code class=&quot;language-kotlin&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;requestBackgroundPermission&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token comment&quot;&gt;//check if user have permission&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isLocationPermissionNotGranted&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;token comment&quot;&gt;//check if permission was denied before and we need to show an explanation&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;shouldShowRational&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;// showRationalDialog()&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;//request permission&lt;/span&gt;
+                &lt;span class=&quot;token function&quot;&gt;requestLocationPermission&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;token comment&quot;&gt;//permission is already granted&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isAndroid11&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isBackgroundLocationPermissionNotGranted&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+                    &lt;span class=&quot;token function&quot;&gt;requestBackgroundLocation&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+                &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;// app is pre 11 and no need to request this permission&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;now lets handle what happends when user accept or decline permission dialogs&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;kotlin&quot;&gt;&lt;pre class=&quot;language-kotlin&quot;&gt;&lt;code class=&quot;language-kotlin&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;override&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;onRequestPermissionsResult&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+        requestCode&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; Int&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        permissions&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; Array&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;out&lt;/span&gt; String&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        grantResults&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; IntArray
+    &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;onRequestPermissionsResult&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;requestCode&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; permissions&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; grantResults&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;requestCode &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; REQUEST_CODE_LOCATION_PERMISSION&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;grantResults&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt;PackageManager&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;PERMISSION_GRANTED&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;//permission granted here&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;//now lets request background permission&lt;/span&gt;
+                &lt;span class=&quot;token function&quot;&gt;requestBackgroundLocation&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;//user denied permission, show him some dialog and take to settings&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;requestCode &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; REQUEST_CODE_BACKGROUND_LOCATION_PERMISSION&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;grantResults&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt;PackageManager&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;PERMISSION_GRANTED&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;//background location permission is granted&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token comment&quot;&gt;//user denied permission, show him some dialog and take to settings&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;where &lt;code class=&quot;language-text&quot;&gt;REQUEST_CODE_LOCATION_PERMISSION&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;REQUEST_CODE_BACKGROUND_LOCATION_PERMISSION&lt;/code&gt; are &lt;code class=&quot;language-text&quot;&gt;int const&lt;/code&gt; passed when we call &lt;code class=&quot;language-text&quot;&gt;requestPermission()&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;and thats it , and now will run our app and see if its working &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/177aed27cc7027910c364efad2512260/37523/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.91666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsTAAALEwEAmpwYAAABgklEQVRIx+2U3SuDURzHn1KuRLlQy8t/4UqJUqS2FlPihhJGEkr5E6SwtWHFuMKulC3tzYVEiqtxO9lKUex5nolse57zdc6Zx0ZkM5fPrz7n+6vznE+n0zmPMNh4jNHmE0y2n8HacoqOmgBMDWEY60O/YqJ0GoKYNZ9jznKBkaYjCHuuG+xvxODbisPrjmN7MQqP7Rq7BbKzFIV3M46w5xY+dwwC/rmETEaFkkcmXTzZtYTn/+9QF+pCXViIkBDCG6ISqPQ9qkqR0DVsLXdQl6A1pZbm+NihdKfi0p/KEkjhKvieWu/PZf53kYMU7qNKbofst8MqZH+BRXjATJ2E8SoRQ2UJWCtEzliliIlqEcPlCUzXSrxnTBkk9AmPWB944g4lTYXsHFhF/K+Yb5Xg6k/C0S1j2SjzdHTJsJtlOHtk2EwyVnuTcFpkzhrtF9okHK48cwdz0TOkh8qdbFDpqPL8ie/ncw5Ba1gSFdn8A5ojd20IKYlP10Z/y7pQF+rCr/UGiYnPLzbC9CYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/177aed27cc7027910c364efad2512260/8ac56/1.webp 240w,
+/static/177aed27cc7027910c364efad2512260/d3be9/1.webp 480w,
+/static/177aed27cc7027910c364efad2512260/bc514/1.webp 720w&quot;
+          sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/177aed27cc7027910c364efad2512260/8ff5a/1.png 240w,
+/static/177aed27cc7027910c364efad2512260/e85cb/1.png 480w,
+/static/177aed27cc7027910c364efad2512260/37523/1.png 720w&quot;
+          sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/177aed27cc7027910c364efad2512260/37523/1.png&quot;
+          alt=&quot;1&quot;
+          title=&quot;1&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/35ed3124ec2cce76a8182eba11b08dae/37523/2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.91666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC4UlEQVRIx+VWS09TQRTuxsRE/oBxoQs3LowrojFBI0TEYADZ+CAF7IsWNDHxH7DjJ7S0v4EFC2AFLCAhhF0Jj5ICBW1LCxRbpY+583nPGS65fdxShYXGSb7O5M4535zzzZmZ2prv2tFy34nnzT48feDCzWvtuNP0CrdvdF6Mpk7cut6Brief0dv2BS33BmDrbB1AV/sHvH7pRPcLB549fIO2x+8aRuujt+jpcOJ97zB6dH+bb8QD77AOnxs+vf/4yYuR3wT5Dnld7G9zudxwm+D6A7Cv28O9zePx4CrxDxC63bqgQ0Pwer2XAnEQF0c4ODiIvr6+S6G/v19F6HA4MDo6ilAoBL/fj0AgUAa/P4DgeACh8YDFvB/BYBBjY2P6jrtgI/alpSXUa0JHQdY1we7urkqZCBcWFvhjsViEpmkMIQSE3gMS0YMCwvsFHguhldmUSiX23dzcVCkT4eLiooqESM4gpeQFCFJqKBYK7Gx8I0Ky0XhRIBKJVBMaEysrK4hGo1heXsbk5CTm5uYwPT2Nqakp7mdmZjA7O8t2RoQ1CWnFeDzOemxtbbERYXt7G6urq9jZ2eF+fX0d4XCY7ciHGtlXEVL42WwWqVQKyWQSsViMtSHHtbU1diKk02kkEglkMpn6hKSduRV03chwY2ODCUkG0s/cDA0tCQ2hFaprheYrd7pKQ6NsSGDDEJJWtoZhd2HZnEmCXF4ikiwhnhH4eiy43ztS4+Mf2lm0DaZMBZwvSSS/CxzlNKSzgsfUJ04ETn6qgresw1onRZ6nLCug5Gg4ZSMVavmi1KPScKhHSWnS+LSoJmWju1xJGDtUun07VhpmTPpZEtZKuTxtE0zpWqZsRSi4zjR9xwVyp4LH5hq0JKRLoF47yAH7Jxffh0xot9sxMTHB55cOP53fSuzvKdSaIyI69/Pz8+rGJlZ6BghOp7MmHA4F63nlzzc2/Vz5M3pVZOfP6H/2V+SvJ/wFzjcvZmOvbkIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/35ed3124ec2cce76a8182eba11b08dae/8ac56/2.webp 240w,
+/static/35ed3124ec2cce76a8182eba11b08dae/d3be9/2.webp 480w,
+/static/35ed3124ec2cce76a8182eba11b08dae/bc514/2.webp 720w&quot;
+          sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/35ed3124ec2cce76a8182eba11b08dae/8ff5a/2.png 240w,
+/static/35ed3124ec2cce76a8182eba11b08dae/e85cb/2.png 480w,
+/static/35ed3124ec2cce76a8182eba11b08dae/37523/2.png 720w&quot;
+          sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/35ed3124ec2cce76a8182eba11b08dae/37523/2.png&quot;
+          alt=&quot;2&quot;
+          title=&quot;2&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c684caf431d755291ee8c828bb6fdc02/37523/3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.91666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsTAAALEwEAmpwYAAADWklEQVRIx6VWXW/aMBTN/97e97Z/Ue15baVO1bpWqlTRUbVd0drx/Q0BWiiQEBI7OfMxCQshMGgtXV37Or6+x/f6OMZkMsFwOES73Uav1wNbEARLHcmmMVutVkOlUsFw0IfheR6klJjNZnAcB/u0yCHXWpYFd+7A8H0fg8FAT9Axo+33+2i1WjBNU4+73S46nY4eU9h3XXfFabPZ1I4NIYReTMeMln2GXywWtSacx8dHVGtVPS6VSigUCks0kUNuyuMz8I6WPEs2I37QcWHEFLa59GCLuVqpjiW0J51F64xNWY1sEznD58E3fOofwfRetc1PyfSKwzQIMowu73TxofQFH/8cIDMpapvwZSpcDXnTucTb91EOX82f2OXb1AiZQWa2WCrqrLbKdXSrLZ3dUrmMRqOxluWtDlljrKuyWkxdq9dQrlZ0v16vL2su1WFaht9SNqlJWUwiLJsUidk3bWxE9SaXdbejBP/WxGUFslQ7d1+FEonWUMBU/caLQFNJZ7Swm2OJ9kiipzQrPXlcRhKupe782AkwUUmc6v5CaLfmAaaOj5HtY+aG55eETK+kHpIE2eZ19AJfXTXPdWBNxphZU7iOoraZpVDKlKQkIiRuMoytyoDUdHR8jJubG2SVXF9f4+LiAvf3v3B29kMxirm4euFdTiPcEPJ+pbKNwbXD8czHXAQhyfprDuLsErWIiZI1qR0eZGxUngP1JnRxeHiE29tb5HI5XF5e4uHhAaenpxr+3d2dtl1dXeH8/Fx/c3Jyolk9FmGgo5NqA89zMZ1OYdu2FjJw9F5Q08Y+7bzLtNEZE7p6hoG/15Xbdg2XWeZufKwIJZ/PI5vNaoiUTCazhJWW4bWkEArDJgy+aFzMEuLDw034Xm9il618uCusrQ75EaNiBIyIRc2ncxus/zocj8f6TaZ+enpCtVpNfbR2kS2Q35Z1I85l5DchpCaJOEemidwwb8QZOWKPvSTB7kbEg2wvlo/qQP3rDCUKpkCpJ7TOmwvdHEo9V3uWqKjvyn2heSB+QEY8g54gsS7Iczr3dZ+apMq+NV+M7XCO4skNfw7vuXorP0txw/PUR7HHd0Tid9tDXWnCoo2aUgnHPBqRiG7NIR+puRdoGI7SrlgIF9IWzUX2tGL/Cz3s9W35B19pAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c684caf431d755291ee8c828bb6fdc02/8ac56/3.webp 240w,
+/static/c684caf431d755291ee8c828bb6fdc02/d3be9/3.webp 480w,
+/static/c684caf431d755291ee8c828bb6fdc02/bc514/3.webp 720w&quot;
+          sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c684caf431d755291ee8c828bb6fdc02/8ff5a/3.png 240w,
+/static/c684caf431d755291ee8c828bb6fdc02/e85cb/3.png 480w,
+/static/c684caf431d755291ee8c828bb6fdc02/37523/3.png 720w&quot;
+          sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/c684caf431d755291ee8c828bb6fdc02/37523/3.png&quot;
+          alt=&quot;3&quot;
+          title=&quot;3&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://lumen.netlify.com/posts/humane-typography-in-the-digital-age</link><guid isPermaLink="false">https://lumen.netlify.com/posts/humane-typography-in-the-digital-age</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
@@ -323,7 +549,8 @@
   &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/71ba9417da76c390c80ad2f49c9c227d/cpu.svg&quot; alt=&quot;Test SVG&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Perfecting the Art of Perfection]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://lumen.netlify.com/posts/perfecting-the-art-of-perfection</link><guid isPermaLink="false">https://lumen.netlify.com/posts/perfecting-the-art-of-perfection</guid><pubDate>Thu, 01 Sep 2016 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/71ba9417da76c390c80ad2f49c9c227d/cpu.svg&quot; alt=&quot;Test SVG&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Perfecting the Art of Perfection]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://lumen.netlify.com/posts/perfecting-the-art-of-perfection</link><guid isPermaLink="false">https://lumen.netlify.com/posts/perfecting-the-art-of-perfection</guid><pubDate>Thu, 01 Sep 2016 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;../article&quot;&gt;visit us here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
